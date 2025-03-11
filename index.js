@@ -11,5 +11,5 @@ function superbowlWin(record) {
     { year: "2013", result: "L" }
   ];
   
-  console.log(superbowlWin(record)); // Should print "2015" if a win is found
+  console.log(superbowlWin(record)); 
   
